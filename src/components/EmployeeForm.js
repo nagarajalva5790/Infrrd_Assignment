@@ -49,7 +49,8 @@ const EmployeeForm = props => {
                             setError('');
                         }}
                     >
-                        <input type="text" name="name" value={employee.name} onChange={handleInputChange} placeholder="Name" />
+                        <label>Employee Name</label>
+                        <input type="text" name="name" value={employee.name} onChange={handleInputChange} />
                         <label>Company Name</label>
                         <input type="text" name="company_name" value={employee.company_name} onChange={handleInputChange} />
                         <label>Email ID</label>
