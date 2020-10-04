@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Infrrd_Assignment/static/css/main.d239d82f.chunk.css",
-    "main.js": "/Infrrd_Assignment/static/js/main.f8867f9e.chunk.js",
-    "main.js.map": "/Infrrd_Assignment/static/js/main.f8867f9e.chunk.js.map",
+    "main.js": "/Infrrd_Assignment/static/js/main.b12c7bd0.chunk.js",
+    "main.js.map": "/Infrrd_Assignment/static/js/main.b12c7bd0.chunk.js.map",
     "runtime-main.js": "/Infrrd_Assignment/static/js/runtime-main.d18abc63.js",
     "runtime-main.js.map": "/Infrrd_Assignment/static/js/runtime-main.d18abc63.js.map",
     "static/js/2.fa866f76.chunk.js": "/Infrrd_Assignment/static/js/2.fa866f76.chunk.js",
     "static/js/2.fa866f76.chunk.js.map": "/Infrrd_Assignment/static/js/2.fa866f76.chunk.js.map",
     "index.html": "/Infrrd_Assignment/index.html",
-    "precache-manifest.c23f92ea1b0ef4557f209833105f1e46.js": "/Infrrd_Assignment/precache-manifest.c23f92ea1b0ef4557f209833105f1e46.js",
+    "precache-manifest.c8b68198a0c9edf53346f11c073b22f0.js": "/Infrrd_Assignment/precache-manifest.c8b68198a0c9edf53346f11c073b22f0.js",
     "service-worker.js": "/Infrrd_Assignment/service-worker.js",
     "static/css/main.d239d82f.chunk.css.map": "/Infrrd_Assignment/static/css/main.d239d82f.chunk.css.map",
     "static/js/2.fa866f76.chunk.js.LICENSE.txt": "/Infrrd_Assignment/static/js/2.fa866f76.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.d18abc63.js",
     "static/js/2.fa866f76.chunk.js",
     "static/css/main.d239d82f.chunk.css",
-    "static/js/main.f8867f9e.chunk.js"
+    "static/js/main.b12c7bd0.chunk.js"
   ]
 }
